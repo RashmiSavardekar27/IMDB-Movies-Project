@@ -12,7 +12,7 @@ st.set_page_config(page_title="IMDB Top Movies Project",layout="wide")
 # Create website title
 st.title("IMDB Top Movies App")
 
-st.subheader("By Sindhura Nadendla")
+st.subheader("By Rashmi Savardekar")
 
 # create a button which prompts user about top movies data
 button = st.button("Click here to view most popular movie titles")
